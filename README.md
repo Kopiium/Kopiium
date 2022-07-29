@@ -8,9 +8,9 @@
 <div>
 <p align="center">
 <a>
-<img width="500" src="https://user-images.githubusercontent.com/94048100/181806963-ca1c2890-bc9a-4faf-bc2e-666c8d37ab30.jpg">
+<img height="162" width="500" src="https://user-images.githubusercontent.com/94048100/181806963-ca1c2890-bc9a-4faf-bc2e-666c8d37ab30.jpg">
 </a>&nbsp;<a>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=rilw0cr21ovd320pc47sxfdhr&width=370&unique=true&count=3">
+  <img height="162" src="https://spotify-recently-played-readme.vercel.app/api?user=rilw0cr21ovd320pc47sxfdhr&width=370&unique=true&count=3">
 </a>
   </a>&nbsp;<a>
   <img src="https://i.pinimg.com/originals/54/f8/13/54f81331a9da88c623b96363fb0a4da1.gif">
