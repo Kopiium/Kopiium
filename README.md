@@ -6,7 +6,7 @@
 <a href="https://github.com/Kopiium/"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&color=F7F7F7&center=true&vCenter=true&height=60&lines=ABout+Kopium?..." alt="Typing SVG" /></a>
 </p>
 <div>
-<p align="left">
+<p align="center">
 <a>
 <img width="500" src="https://user-images.githubusercontent.com/94048100/181806963-ca1c2890-bc9a-4faf-bc2e-666c8d37ab30.jpg">
 </a>&nbsp;<a>
