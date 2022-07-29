@@ -8,7 +8,7 @@
 <div>
 <p align="left">
 <a>
-<img width="600" src="https://user-images.githubusercontent.com/94048100/181806963-ca1c2890-bc9a-4faf-bc2e-666c8d37ab30.jpg">
+<img width="300" src="https://user-images.githubusercontent.com/94048100/181806963-ca1c2890-bc9a-4faf-bc2e-666c8d37ab30.jpg">
 </a>&nbsp;<a>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=rilw0cr21ovd320pc47sxfdhr&width=370&unique=true&count=3}">
 </a>
