@@ -13,6 +13,6 @@
   <img height="162" src="https://spotify-recently-played-readme.vercel.app/api?user=rilw0cr21ovd320pc47sxfdhr&width=370&unique=true&count=3">
 </a>
   </a>&nbsp;<a>
-  <img src="https://i.pinimg.com/originals/54/f8/13/54f81331a9da88c623b96363fb0a4da1.gif">
+  <img width="777" src="https://i.pinimg.com/originals/54/f8/13/54f81331a9da88c623b96363fb0a4da1.gif">
 </a>
 </div>
